@@ -1,3 +1,3 @@
-![Zain's GitHub Banner](./assets/header_git.png)
+![Zain's GitHub Banner](./assets/header.png)
 
 
