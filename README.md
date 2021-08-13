@@ -5,12 +5,12 @@ As a child, I was always passionate about new technologies and how they play a h
 Currently I am pursing my bachelor's in Computer Science while learning Data Sciecne I want pursue my career as Data Scientist, also doing projects on Web Development, ML and Data Science. 
 
 ## Expertise
-Web Development |
-Web Scraping |
-Digital Marketing |
-SEO/SEM |
-Data Visualization |
-Machine Learning Model Building |
-Data Cleaning
+- Web Development 
+- Web Scraping 
+- Digital Marketing 
+- SEO/SEM 
+- Data Visualization |
+- Machine Learning Model Building |
+- Data Cleaning
 
 
