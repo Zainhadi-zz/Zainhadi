@@ -47,4 +47,4 @@ As a child, I was always passionate about new technologies and how they play a h
 - Data Cleaning
 
  **Got an interesting project? I can help you.**
-**Feels free to mail me at Zain.hadi26@gmail.com or hit me up on my social media handles.**
+**Feels free to mail me at Zain.hadi26@gmail.com or you can message me on my social media handles.**
