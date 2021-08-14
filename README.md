@@ -46,4 +46,5 @@ As a child, I was always passionate about new technologies and how they play a h
 - Machine Learning Model Building 
 - Data Cleaning
 
-
+ **Got an interesting project? I can help you.**
+**Feels free to mail me at Zain.hadi26@gmail.com or hit me up on my social media handles.**
