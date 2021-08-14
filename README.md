@@ -6,7 +6,7 @@
 
 ## About ME
 As a child, I was always passionate about new technologies and how they play a huge role in our daily lives from solving small problems to impacting our whole lifestyle, Today not much has changed I am always to go-to guy for the techie stuff.
-Currently I am studying bachelor's in Computer Science while learning Data Sciecne I want pursue my career as Data Scientist, also doing projects on Web Development, ML and Data Science. 
+<br> Currently, I am practicing Data Science, while building projects in Web Development, ML Models, and Data Science. 
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
